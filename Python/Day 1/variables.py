@@ -1,3 +1,5 @@
+#This file contains Python basics (variables, data types)
+
 # ----------------------------
 # Variables in Python
 # ----------------------------
