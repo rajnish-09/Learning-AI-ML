@@ -12,4 +12,4 @@ class Laptop:
 
 
 l1 = Laptop("Samsung")
-l1.calc_discount(100000, 10)
+l1.calc_discount(100_000, 10)
