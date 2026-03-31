@@ -1,4 +1,6 @@
 # Implement instance method
+# self keyword is always the first parameter in instance method
+
 class Smartphone:
     def __init__(self, brand, model, color):
         self.brand = brand
