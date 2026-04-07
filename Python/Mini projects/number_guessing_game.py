@@ -1,7 +1,6 @@
 # A secret number is saved by default. User input numbers until they found secret number is found
-
-def validate_number(number):
-    secret_number = 30
+import random
+def validate_number(number, secret_number):
     if number > secret_number:
         print("Too high")
         return False
@@ -13,7 +12,8 @@ def validate_number(number):
         return True
 
 
+secret_number = random.randint(1,100)
 while True:
     user_input = int(input("Enter a number: "))
-    if validate_number(user_input):
+    if validate_number(user_input, secret_number):
         break
