@@ -1,0 +1,12 @@
+[
+  {"customer": "Liam", "score": " 4 ", "comment": "Great support!", "years": "2"},
+  {"customer": "Ethan", "score": "five", "comment": "Excellent!", "years": "1"},
+  {"customer": "Noah", "score": "1", "comment": "Terrible service"},
+  {"customer": "Ava", "score": " Three ", "comment": "Okay, could be better", "years": "3"},
+  {"customer": "Ethan", "score": "3.5", "comment": "Satisfactory", "years": "2"},
+  {"customer": "Isabella", "score": "TWO", "comment": "Not happy", "years": "1"},
+  {"customer": "Mason", "score": " 5", "comment": "Loved it", "years": ""},
+  {"customer": "Mia", "score": "one", "comment": "Very poor experience", "years": "4"},
+  {"customer": "Mia", "score": "4", "comment": "Good service", "years": "2"},
+  {"customer": "Ava", "score": "three", "comment": "Average", "years": "3"}
+]
