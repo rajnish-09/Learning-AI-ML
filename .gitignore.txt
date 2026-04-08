@@ -1,0 +1,9 @@
+# Jupyter notebook checkpoint files
+.ipynb_checkpoints/
+
+# VS Code or Jupyter virtual documents
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
